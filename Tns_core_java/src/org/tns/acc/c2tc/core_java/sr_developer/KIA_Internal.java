@@ -1,4 +1,4 @@
-package org.tns.acc.c2c.core_java.sr_developer;
+package org.tns.acc.c2tc.core_java.sr_developer;
 
 import org.tns.acc.c2tc.core_java.jr_developer.KIA_AirBags;
 
