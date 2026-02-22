@@ -1,6 +1,6 @@
 package org.tns.acc.c2c.core_java.sr_developer;
 
-import jr_developer.KIA_AirBags;
+import org.tns.acc.c2tc.core_java.jr_developer.KIA_AirBags;
 
 public class KIA_Internal extends KIA_AirBags 
 {

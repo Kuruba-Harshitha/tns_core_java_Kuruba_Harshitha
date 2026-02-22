@@ -2,8 +2,8 @@ package org.tns.acc.c2tc.core_java.manager_rules;
 
 
 
-import jr_developer.KIA_AirBags;
-import jr_developer.KIA_SpeedLimit;
+import org.tns.acc.c2tc.core_java.jr_developer.KIA_AirBags;
+import org.tns.acc.c2tc.core_java.jr_developer.KIA_SpeedLimit;
 
 public class KIA_Rules {
 public static void main(String[] args) {

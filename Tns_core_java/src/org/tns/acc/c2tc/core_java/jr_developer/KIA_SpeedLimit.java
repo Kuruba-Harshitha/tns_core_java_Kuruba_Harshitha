@@ -1,4 +1,4 @@
-package jr_developer;
+package org.tns.acc.c2tc.core_java.jr_developer;
 
 public class KIA_SpeedLimit {
 	public void display_speed()
