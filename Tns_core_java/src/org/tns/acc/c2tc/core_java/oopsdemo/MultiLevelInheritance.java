@@ -1,0 +1,32 @@
+package org.tns.acc.c2tc.core_java.oopsdemo;
+class Device {// super class
+	void deviceType() {
+		System.out.println("I am a Electronic gadget");
+	}
+}
+	
+class  Phone extends Device{
+	void brand() {
+		System.out.println("brand:samsung");
+	}
+}
+class SmartPhone extends Phone {
+	void features() {
+		System.out.println("Features: TouchScreen, Camera,Microphone");
+	}
+}
+	
+public class MultiLevelInheritance {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SmartPhone phone = new SmartPhone();
+		phone.deviceType();
+		phone.brand();
+		phone.features();
+
+	}
+
+
+
+}
